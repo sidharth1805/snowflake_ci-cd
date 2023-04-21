@@ -1,4 +1,4 @@
-insert into TABLE HELLO_WORLD
+insert into HELLO_WORLD
 values
 (
     "Sidharth",
